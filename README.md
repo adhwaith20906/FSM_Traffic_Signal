@@ -43,7 +43,7 @@ A counter tracks clock cycles and controls the state transitions.
 
 ``` verilog
 parameter Green_time = 40;
-parameter Yellow_time = 40;
+parameter Yellow_time = 20;
 ```
 
 The parameters specify the duration of the green and yellow phases in
