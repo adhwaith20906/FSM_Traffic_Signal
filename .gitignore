@@ -1,0 +1,31 @@
+# ModelSim / Questa
+*.vcd
+*.wlf
+*.ucdb
+work/
+transcript
+modelsim.ini
+*.mpf
+*.mti
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+*.rpt
+*.summary
+*.smsg
+*.sof
+*.pof
+*.jdi
+*.qws
+*.qdb
+*.qdf
+
+# Temporary / backup files
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
